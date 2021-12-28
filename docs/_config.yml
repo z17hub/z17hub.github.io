@@ -1,0 +1,8 @@
+title: "z17 Hub"
+description: ""
+lang: "ru_RU"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
